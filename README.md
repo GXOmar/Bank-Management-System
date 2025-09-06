@@ -1,5 +1,5 @@
-# **Bank System | C++ Console Application**
-This **bank system** is a console application written in C++ programming language.<br>
+# **Bank Management System | C++ Console Application**
+This **bank management system** is a console application written in C++ programming language.<br>
 The entire software is structured and written using object oriented programming (OOP) paradigm.<br>
 
 ## This project contains the following features:
@@ -11,8 +11,10 @@ The entire software is structured and written using object oriented programming 
 - 🏦 Transactions
 - ⚙️ Users management
 - 👣 Logging mechanism to log bank activities (Transactions, logins)
-<br>
 - 📚 Custom written libraries to handle basic/fundamental tasks (Date, String, Utility and Input validation libraries).
+
+## Note
+The repository has a ```Data/``` folder that contain sample data for application to run on.
 
 ## Disclaimer
 ***Do not use this software in a production environment.***
